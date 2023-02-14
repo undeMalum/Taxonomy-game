@@ -1,7 +1,7 @@
 # Taxonomy game
 The purpose of Taxonomy Game is to enhance the learning of biological classification for biology students.
 
-![](imgs/game_main_page.png) ![](imgs/game_in_run.png) ![](imgs/after_game.png)
+![](imgs/game_main_page_2.png) ![](imgs/game_in_run_2.png) ![](imgs/after_game_2.png)
 
 ## Features
 With Taxonomy Game, students can test their knowledge on:
