@@ -12,7 +12,7 @@ ImageFile.LOAD_TRUNCATED_IMAGES = True
 
 # creating main window and setting default values
 root = Tk()
-root.title("Guess faces")
+root.title("Taxonomy game")
 root.geometry("350x450")
 
 
